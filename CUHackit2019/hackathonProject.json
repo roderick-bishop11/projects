@@ -1,0 +1,260 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "hackathon project",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "StartInterview",
+                    "slots": [],
+                    "samples": [
+                        "yes",
+                        "im ready for my interview",
+                        "start my interview",
+                        "interview me",
+                        "start interviewing me",
+                        "lets start",
+                        "okay lets start"
+                    ]
+                },
+                {
+                    "name": "InterviewQuestionTwo",
+                    "slots": [],
+                    "samples": [
+                        "i am done wiht question one",
+                        "im done with question one",
+                        "question two please",
+                        "question two",
+                        "im ready for question two",
+                        "im done with the first question",
+                        "ask me the second question"
+                    ]
+                },
+                {
+                    "name": "InterviewQuestionThree",
+                    "slots": [],
+                    "samples": [
+                        "im done with uestion two",
+                        "i am done with question two",
+                        "question three please",
+                        "question three",
+                        "im ready for question three",
+                        "give me question three",
+                        "im done with the second question",
+                        "ask me the third question"
+                    ]
+                },
+                {
+                    "name": "InterviewQuestionFour",
+                    "slots": [],
+                    "samples": [
+                        "i am done with question three",
+                        "question four please ",
+                        "question four",
+                        "im ready for question four",
+                        "im ready for the fourth question",
+                        "give me question four",
+                        "Im done with question three"
+                    ]
+                },
+                {
+                    "name": "InterviewQuestionFive",
+                    "slots": [],
+                    "samples": [
+                        "question five",
+                        "question five please",
+                        "im ready for question five",
+                        "im ready for the fifth question",
+                        "im ready for the last question",
+                        "give me the last question"
+                    ]
+                },
+                {
+                    "name": "InterestQuestion",
+                    "slots": [],
+                    "samples": [
+                        "im interested in computers",
+                        "i like to work with computers",
+                        "i like computers",
+                        "computers",
+                        "computer"
+                    ]
+                },
+                {
+                    "name": "general",
+                    "slots": [],
+                    "samples": [
+                        "a couple of years",
+                        "a couple of months",
+                        "not long",
+                        "for a little while",
+                        "a few years",
+                        "a little over a year",
+                        "a little over a month",
+                        "a little over",
+                        "a few months ",
+                        "a year and a half",
+                        "a few year ",
+                        "a little while ",
+                        "just for a little while",
+                        "years",
+                        "months",
+                        "month",
+                        "year"
+                    ]
+                },
+                {
+                    "name": "CodingQuestion",
+                    "slots": [],
+                    "samples": [
+                        "python recently",
+                        "just a bit of python",
+                        "mostly python",
+                        "python",
+                        "Just some Python",
+                        "Yeah python",
+                        "Yeah ive learned a little bit of python",
+                        "yeah actually python"
+                    ]
+                },
+                {
+                    "name": "Yes",
+                    "slots": [],
+                    "samples": [
+                        "that is pretty much it",
+                        "You have no idea",
+                        "you have no clue",
+                        "you dont even know",
+                        "i have indeed",
+                        "yeah"
+                    ]
+                },
+                {
+                    "name": "Ending",
+                    "slots": [],
+                    "samples": [
+                        "i feel like i just won a million bucks",
+                        "it feels like I just won a million bucks",
+                        "hell yea",
+                        "heck yea",
+                        "if only you knew",
+                        "yes and it was an amazing experience",
+                        "Yes it was ",
+                        "Yes ma'am",
+                        "It did "
+                    ]
+                },
+                {
+                    "name": "giveScore",
+                    "slots": [],
+                    "samples": [
+                        "how was my interview",
+                        "how was that interview",
+                        "tell me how i did",
+                        "how was the interview",
+                        "did i do good",
+                        "did i do well",
+                        "what is my grade",
+                        "how did i do",
+                        "what is my score",
+                        "what did i get"
+                    ]
+                }
+            ],
+            "types": [
+                {
+                    "name": "keyword",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "i am",
+                                "synonyms": [
+                                    "i'm"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "adjective",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "motivated"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "honest"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "confident"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "ambitious",
+                                "synonyms": [
+                                    "opportunity seeking"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "hard working",
+                                "synonyms": [
+                                    "determined",
+                                    "dedicated",
+                                    "diligent"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "trustworthy"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "prompt",
+                                "synonyms": [
+                                    "never late",
+                                    "on time"
+                                ]
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "reliable",
+                                "synonyms": [
+                                    "dependable"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
