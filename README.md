@@ -1,14 +1,9 @@
-# Welcome to the coding projects repository!
-This repository is full of larger coding projects that I have done on my own, with a group in a classroom setting, or at an event. This repo will feature projects coded in multiple languages, but will take a little longer to complete and update than the smaller programs located in the [codingSamples](https://github.com/roderick-bishop11/codingSamples) repo. Please check back often for updates and new commits
+#Hi Guys!
 
 
-# Goal
-The general idea of this repo as opposed to the [codingSamples](https://github.com/roderick-bishop11/codingSamples) is to show of the *application* of the skills/concepts that I have learned in class. Thus, this repo will be updated less often. 
+This is the unofficial README for my personal website. I'm starting the learning process for this project in soon,
+but the actual start of this project won't really be until later, possibly 2021. The goal is to get this website up and running by recruiting season 2021 so that I can haev a great recruiting season. So far, I have some basic designs and implementation ideas but stay tuned for the realization of them! In the meantime, check out the <a href="https://github.com/roderick-bishop11/CodingProjects">CodingProjects/a>, <a href="https://github.com/roderick-bishop11/roboticsprojects">RoboticsProjects</a>, or <a href="https://github.com/roderick-bishop11/CodingPractice">CodingSamples</a> repos for more updated activity. 
 
+-7/15/2020
+This README will also be updated with logged updates to the website going forward. 
 
-# Who Is This Repository For?
-This repo is mainly for potential employers. Simply put, they need to see that I can apply my knowledge to provide real world solutions. 
-
-TL;DR
-=== 
-**This is my codingProjects repo, I hope you enjoy**
