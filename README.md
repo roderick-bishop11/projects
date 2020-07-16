@@ -1,4 +1,4 @@
-#Hi Guys!#
+# Hi Guys!
 
 
 This is the unofficial README for my personal website. I'm starting the learning process for this project in soon,
@@ -7,5 +7,5 @@ but the actual start of this project won't really be until later, possibly 2021.
 -7/15/2020
 This README will also be updated with logged updates to the website going forward.
 
-##Thanks!##
+## Thanks!
 
