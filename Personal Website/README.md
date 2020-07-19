@@ -40,6 +40,9 @@ I thought it would be a great idea to plan out this project and break it down to
 
 ## Resources
 
+
+
+* for CSS text animation ideas - [animista.net](https://animista.net/)
 ### Inspiration
 * I was inspired to do this project by a post by a fellow computer science student. I will link her post and website upon approval. 
 
