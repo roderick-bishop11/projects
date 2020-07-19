@@ -7,7 +7,7 @@ for the purposes of putting it on a business card and having another project und
 you guys have. Explore the repo, and let's hope I can do this right!
 
 ## Project steps
-I thought it would be a great idea to plan out this project and break it down to smaller, easily doable steps: 
+I thought it would be a great idea to plan out this project and break it down to smaller, easily doable steps: **be sure to check the kanban board for progress on this project**
 
 * Complete some research on easy websites for V1 of website. Things like technology stacks, architecture, beginner website examples, hosting, etc 
 * Develop a few designs (paper drawings)
@@ -50,5 +50,5 @@ Other resoruces will be updated as I get further in the project.
 
 
 # Project logs (newest first)
-
+* 7/19/2020: started on designs for homepage. View them [here](https://github.com/roderick-bishop11/codingProjects/tree/master/Personal%20Website/Concepts)
 * 7/19/2020: Official start of project. Created Readme and created repo. Shooting for new year 2021 to be done with project. 
