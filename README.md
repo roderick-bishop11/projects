@@ -1,7 +1,7 @@
 # Hi Guys!
 
 
-This repository is full of larger coding projects that I have done on my own or with a group in a classroom setting. This repo will feature projects coded in multiple languages, but will take a little longer to complete and update than the smaller programs located in the codingSamples repo. Please check back often for updates and new commits In the meantime, check out the <a href="https://github.com/roderick-bishop11/roboticsprojects">RoboticsProjects</a>, or <a href="https://github.com/roderick-bishop11/CodingPractice">CodingPractice</a> repos for more updated activity. 
+This repository is full of larger coding projects that I have done on my own or with a group. This repo will feature projects coded in multiple languages, but will take a little longer to complete and update than the smaller programs located in the codingPractice repo. Check back for updates and new commits. In the meantime, check out the [RoboticsProjects](https://github.com/roderick-bishop11/roboticsprojects), or [CodingPractice](https://github.com/roderick-bishop11/CodingPractice) repos for more updated activity. 
 
 ## Updates
 * 7/19/2020
