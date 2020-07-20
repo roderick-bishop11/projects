@@ -7,7 +7,7 @@ for the purposes of putting it on a business card and having another project und
 you guys have. Explore the repo, and let's hope I can do this right!
 
 ## Project steps
-I thought it would be a great idea to plan out this project and break it down to smaller, easily doable steps: **be sure to check the kanban board for progress on this project**
+I thought it would be a great idea to plan out this project and break it down to smaller, easily doable steps: **be sure to check the [project kanban board](https://github.com/users/roderick-bishop11/projects/1) for progress on this project**
 
 * Complete some research on easy websites for V1 of website. Things like technology stacks, architecture, beginner website examples, hosting, etc 
 * Develop a few designs (paper drawings)
@@ -44,7 +44,7 @@ I thought it would be a great idea to plan out this project and break it down to
 
 * for CSS text animation ideas - [animista.net](https://animista.net/)
 ### Inspiration
-* I was inspired to do this project by a post by a fellow computer science student. I will link her post and website upon approval. 
+* I was inspired to do this project by [Pelagia Majoni](https://www.linkedin.com/in/pmajoni/). Her [website](https://pmajon.github.io/i/) was created using pure HTML and CSS and that is something that I thought was within my scope of abilities. Before seeing her post in LinkedIn, I had been pondering web development for the purpose of getting a website in time for recruitment season, but I never found myself with enough time to learn the full stack of web technologies, nor did I want to spend a lot of time or money on this project when I needed that time to work on my problem solving, OOP, and technical interview skills as well as other robotics and CS projects in the pipeline. With the free hosting in github, and some time dedicated to learning HTML and CSS, I think the final product will be a nice one.
 
 Other resoruces will be updated as I get further in the project. 
 
