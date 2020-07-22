@@ -1,6 +1,6 @@
 # Personal website project (try #2) 
 
-You can view the current version of the website [here](https://roderick-bishop11.github.io/codingProjects/)
+You can view the current version of the website [here](https://roderick-bishop11.github.io/codingProjects/) The current site comes from the docs folder in this repo and does not reflect the current state of the repo. This folder is essentially the dev branch for the website and the docs folder is similar to production.
 
 ## Project overview
 
