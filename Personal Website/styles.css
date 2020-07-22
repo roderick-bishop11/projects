@@ -20,25 +20,34 @@ html, body{
     font-size: 60px;
     font-family: 'Anonymous Pro';
     font-weight: 80;
+    animation:
+      tracking-in-expand-fwd-top 1.5s steps(150, end);
+
+
 }
 .social-links{
+    opacity: 0;
     cursor: pointer;
     width: auto;
    margin: 20 auto;
    text-align: justify;
    -ms-text-justify: distribute-all-lines;
    text-justify: distribute-all-lines;
-    
+   animation: showAfter 2.5s;
+   animation-fill-mode: forwards;
+
 }
 .social-link img{
     width: 45px;
     height: 405x;
 }
 .social-link:hover img{
-    opacity: 0.3;
+    opacity: 0.6;
+    background-color: orange;
 }
-a{ 
-    text-decoration: none;
+a{
+    text-decoration: none; /*removing those little image anchors*/
+    /*for getting the images to stretch across the div evenly*/
     vertical-align: top;
     display: inline-block;
     *display: inline;
@@ -51,3 +60,34 @@ a{
     line-height: 0
 }
 
+@keyframes tracking-in-expand-fwd-top {
+  0% {
+    letter-spacing: -0.5em;
+    -webkit-transform: translateZ(-700px) translateY(-500px);
+            transform: translateZ(-700px) translateY(-500px);
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.4;
+  }
+  100% {
+    -webkit-transform: translateZ(0) translateY(0);
+            transform: translateZ(0) translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes showAfter {
+    85% {
+        opacity: 0;
+    }
+    90%{
+        opacity: 0.1;
+    }
+    95%{
+        opacity: 0.4;
+    }
+    100% {
+        opacity: 1;
+    }
+}
