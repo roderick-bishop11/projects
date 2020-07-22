@@ -14,7 +14,7 @@ I thought it would be a great idea to plan out this project and break it down to
 * Choose the design that best shows off your personality and will force you to learn to complete it 
 * Create README outlining the overall goal of the project 
 * Plan out the steps for the project (<-- we are here)
-* Further develop design using design software. Indlude fonts, colors, assets, and possible animation details (hover, click, etc)
+* Further develop designs using design software. Indlude fonts, colors, assets, and possible animation details (hover, click, etc)
 * Write out complete text for each web page in a document
 * Mull over text on the document and refine
 * Refresh HTML basics(tags, refs, divs, containers, links/buttons)
@@ -50,5 +50,6 @@ Other resoruces will be updated as I get further in the project.
 
 
 # Project logs (newest first)
+* 7/21/2020: Went a little crazy with some new designs. Edited steps and kanban board a bit to sync back up with where I really am. 
 * 7/19/2020: started on designs for homepage. View them [here](https://github.com/roderick-bishop11/codingProjects/tree/master/Personal%20Website/Concepts)
 * 7/19/2020: Official start of project. Created Readme and created repo. Shooting for new year 2021 to be done with project. 
