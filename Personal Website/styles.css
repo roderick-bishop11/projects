@@ -3,9 +3,23 @@
     padding: 5;
 }
 html, body{
-    background-color: #f5f5dc;
+    background-color: #c2ac97;
     width: 100%;
     height: 100%;
+}
+.section{
+  height: 100%;
+  width:100%;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.section-header{
+  font-size: 40px;
+  font-family: 'Anonymous Pro';
+  margin-bottom: 50px;
+  letter-spacing: 1px;
+  padding: 20px;
 }
 .header-block{
     top: 50%;
@@ -13,7 +27,7 @@ html, body{
     width: auto;
     transform: translate(-50%, -50%);
     margin: 0 auto;
-    position: fixed;
+    position: absolute;
 }
 .header-block h1{
     letter-spacing: 2px;
@@ -22,8 +36,6 @@ html, body{
     font-weight: 80;
     animation:
       tracking-in-expand-fwd-top 1.5s steps(150, end);
-
-
 }
 .social-links{
     opacity: 0;
@@ -43,9 +55,8 @@ html, body{
 }
 .social-link:hover img{
     opacity: 0.6;
-    background-color: orange;
 }
-a{
+.header-block a{
     text-decoration: none; /*removing those little image anchors*/
     /*for getting the images to stretch across the div evenly*/
     vertical-align: top;
@@ -60,6 +71,24 @@ a{
     line-height: 0
 }
 
+/* about */
+.about-text{
+  width:50%;
+  height:75%;
+  font-size: 25px;
+  font-family: 'Open Sans Light';
+  letter-spacing: 1px;
+  padding: inherit;
+
+}
+.about-text p{
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+
+/* css animations */
 @keyframes tracking-in-expand-fwd-top {
   0% {
     letter-spacing: -0.5em;

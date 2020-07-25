@@ -1,10 +1,10 @@
 # Personal website project (try #2) 
 
-You can view the current version of the website [here](https://roderick-bishop11.github.io/codingProjects/)
+You can view version 0.0.1 (located in docs folder of this repo) of the website [here](https://roderick-bishop11.github.io/codingProjects/)
 
 ## Project overview
 
-This project is a self-led foray into the web-dev territory. My University does not offer courses on this topic currently but I still wanted to build a website, at least a static one
+This project is a self-led foray into the web-dev territory. My University does not offer courses on this topic (to my knowledge) but I still wanted to build a website, at least a static one
 for the purposes of putting it on a business card and having another project under my belt. This project is bound to be a rough one, but I am certainly open to any comments or advice that
 you guys have. Explore the repo, and let's hope I can do this right!
 
@@ -16,10 +16,10 @@ I thought it would be a great idea to plan out this project and break it down to
 * Choose the design that best shows off your personality and will force you to learn to complete it 
 * Create README outlining the overall goal of the project 
 * Plan out the steps for the project 
-* Further develop designs using design software. Indlude fonts, colors, assets, and possible animation details (hover, click, etc)(<-- we are here)
+* Further develop designs using design software. Indlude fonts, colors, assets, and possible animation details (hover, click, etc)
 * Write out complete text for each web page in a document
-* Mull over text on the document and refine (<-- but, we are also here....some things were revisited)
-* Refresh HTML basics(tags, refs, divs, containers, links/buttons)
+* Mull over text on the document and refine (<-- we are here)
+* Refresh HTML basics(tags, refs, divs, containers, links/buttons)(<-- but, we are also here)
 * Learn more advanced HTML concepts (are these even a thing)
 * Implement functional menu bar and footer to website
 * Add text to respective pages in HTML(all pages)
@@ -43,7 +43,8 @@ I thought it would be a great idea to plan out this project and break it down to
 ## Resources
 
 
-
+* for a basic run through of programming, markup, and query languages: [sololearn.com](https://www.sololearn.com/)
+	-Using for refresh/intro to HTML and CSS
 * for CSS text animation ideas - [animista.net](https://animista.net/)
 * for selecting color palettes - [colorpalettes.net](https://colorpalettes.net/)
 ### Inspiration
@@ -53,6 +54,8 @@ Other resoruces will be updated as I get further in the project.
 
 
 # Project logs (newest first)
+
+* 7/25/2020: Changed BG color, added sections to take up entire viewport, added about me section with text, and added a font. 
 * 7/21/2020: Went with minimalist design. Version 0.0.1 is up, just basic text and links. See [here](https://roderick-bishop11.github.io/codingProjects/) 
 * 7/21/2020: Went a little crazy with some new designs. Edited steps and kanban board a bit to sync back up with where I really am. 
 * 7/19/2020: started on designs for homepage. View them [here](https://github.com/roderick-bishop11/codingProjects/tree/master/Personal%20Website/Concepts)
