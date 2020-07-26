@@ -5,6 +5,12 @@ This folder is where the **production** version of the [website](https://roderic
 
 # Production Logs:
 * 7/26/2020: Version 0.0.2 is up! Check [here](https://roderick-bishop11.github.io/codingProjects/)
+	* What was added/changed:
+... About me & resume section
+... changed BG colors
+... added footer
+... changed icons
+... added CSS animations to text  
 * 7/21/2020: Went with minimalist design. Version 0.0.1 is up, just basic text and links. See [here](https://roderick-bishop11.github.io/codingProjects/) 
 
 # Thanks for viewing!
