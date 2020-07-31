@@ -1,4 +1,5 @@
-# Hi Guys!
+# THE PROJECTS REPO! #
+
 
 
 This repository is full of larger coding projects that I have done on my own or with a group. This repo will feature projects coded in multiple languages, but will take a little longer to complete and update than the smaller programs located in the codingPractice repo. Check back for updates and new commits. In the meantime, check out the [RoboticsProjects](https://github.com/roderick-bishop11/roboticsprojects), or [CodingPractice](https://github.com/roderick-bishop11/CodingPractice) repos for more updated activity. 
