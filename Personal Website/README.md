@@ -1,6 +1,6 @@
 # Personal website project (try #2) 
 
-You can view version 0.0.1 (located in docs folder of this repo) of the website [here](https://roderick-bishop11.github.io/codingProjects/)
+You can view version 0.0.1 (located in docs folder of this repo) of the website [here](https://roderick-bishop11.github.io/projects/)
 
 ## Project overview
 
@@ -56,7 +56,7 @@ Other resoruces will be updated as I get further in the project.
 # Project logs (newest first)
 
 * 7/25/2020: Changed BG color, added sections to take up entire viewport, added about me section with text, and added a font. 
-* 7/21/2020: Went with minimalist design. Version 0.0.1 is up, just basic text and links. See [here](https://roderick-bishop11.github.io/codingProjects/) 
+* 7/21/2020: Went with minimalist design. Version 0.0.1 is up, just basic text and links. See [here](https://roderick-bishop11.github.io/projects/) 
 * 7/21/2020: Went a little crazy with some new designs. Edited steps and kanban board a bit to sync back up with where I really am. 
 * 7/19/2020: started on designs for homepage. View them [here](https://github.com/roderick-bishop11/codingProjects/tree/master/Personal%20Website/Concepts)
 * 7/19/2020: Official start of project. Created Readme and created repo. Shooting for new year 2021 to be done with project. 
