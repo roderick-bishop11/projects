@@ -56,7 +56,7 @@ Other resoruces will be updated as I get further in the project.
 
 
 # Project logs (newest first)
-
+* 9/18/2020: Updated minimal design to add skills section separate from Projects Section. Will update index.html accordingly. 
 * 8/20/2020: Changed footer in this folder. Working on CSS basics to finish up project and skills section acording to minimalist design
 * 8/10/2020: Updated Resume, looking for automated solution for this. 
 * 7/26/2020: Changed Icons, added Resume section
