@@ -112,25 +112,10 @@ html, body{
 
 .resume-container{
   width: 100%;
-  height: 400px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  vertical-align: middle;
-}
-.resume-button{
-padding: 15px 32px;
-font-size: 30px;
-cursor: pointer;
-transition-duration: 1s;
-font-family: 'Advent Pro';
-letter-spacing: 1px;
+  height: 100%;
+  display: inline-flexbox;
 }
 
-.resume-button:hover{
-  background-color: #90451b;
-  color: #ea9308;
-}
 
 
 /* footer */
